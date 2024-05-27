@@ -1,0 +1,15 @@
+
+
+.login-admin{
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 125px;
+}
+.login-admin form input[type="submit"]{
+    background-color: blue;
+        color: #fff;
+        border: none;
+        border-radius: 7px;
+        width: 117px;
+        height: 37px;
+}
